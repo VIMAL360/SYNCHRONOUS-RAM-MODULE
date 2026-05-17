@@ -63,5 +63,4 @@ The project was created purely for educational and learning purposes and can be 
 
 OUTPUT:
 
-<img width="1431" height="821" alt="Image" src="PASTE_YOUR_RAM_WAVEFORM_SCREENSHOT_LINK_HERE" />
-
+<img width="1269" height="606" alt="Image" src="https://github.com/user-attachments/assets/2930723d-ccbb-4e52-b240-3df9382af8bf" />
